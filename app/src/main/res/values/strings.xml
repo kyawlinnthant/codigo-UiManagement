@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">codigo-UI-Design</string>
+
+    <string name="tab_map">Map</string>
+    <string name="tab_inhabitants">Inhabitants</string>
+    <string name="tab_shows">Shows</string>
+    <string name="tab_shopping">Shopping</string>
+    <string name="tab_dine">Dine</string>
+    <string name="tab_meet_n_greet">Meet Greets</string>
+
+    <string name="btn_home">Home</string>
+    <string name="btn_wallet">Wallet</string>
+    <string name="btn_more">More</string>
+
+
+    <string name="card1_title">My e-tickets</string>
+    <string name="card1_desc">They aren\'t any yet.</string>
+    <string name="card1_label">Retrieve here</string>
+    <string name="card2_title">Park hours</string>
+    <string name="card2_desc">Today, 13 Feb 10am-5pm</string>
+    <string name="card2_label">Plan my visit</string>
+
+    <string name="upcoming">Upcoming Shows</string>
+    <string name="view_all">View all</string>
+
+</resources>
